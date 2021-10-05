@@ -1,0 +1,14 @@
+C:\storage\project\test\test\bin\Debug\test.exe.config
+C:\storage\project\test\test\bin\Debug\test.exe
+C:\storage\project\test\test\bin\Debug\test.pdb
+C:\storage\project\test\test\obj\Debug\test.Properties.Resources.resources
+C:\storage\project\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\storage\project\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\storage\project\test\test\obj\Debug\test.exe
+C:\storage\project\test\test\obj\Debug\test.pdb
+C:\storage\project\test\test\obj\Debug\test.homeform.resources
+C:\storage\project\test\test\obj\Debug\test.Loginform.resources
+C:\storage\project\test\test\obj\Debug\test.addpage.resources
+C:\storage\project\test\test\obj\Debug\test.viewmembers.resources
+C:\storage\project\test\test\obj\Debug\test.payments.resources
+C:\storage\project\test\test\obj\Debug\test.updateDelete.resources
