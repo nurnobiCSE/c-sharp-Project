@@ -12,3 +12,7 @@ C:\storage\project\test\test\obj\Debug\test.addpage.resources
 C:\storage\project\test\test\obj\Debug\test.viewmembers.resources
 C:\storage\project\test\test\obj\Debug\test.payments.resources
 C:\storage\project\test\test\obj\Debug\test.updateDelete.resources
+C:\storage\project\test\test\bin\Debug\BouncyCastle.Crypto.dll
+C:\storage\project\test\test\bin\Debug\itextsharp.dll
+C:\storage\project\test\test\obj\Debug\test.csproj.CopyComplete
+C:\storage\project\test\test\obj\Debug\test.csproj.AssemblyReference.cache

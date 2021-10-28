@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "22koXrzJb8W7i6PcNLK7wAnttwp1KxDrqa5oys3sNIqgU3u65dSQe1lXIykg7cKIrhnUfGuENO2flpcETUNy4A==",
+  "success": true,
+  "projectFilePath": "C:\\storage\\project\\test\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coder\\.nuget\\packages\\bouncycastle\\1.8.6.1\\bouncycastle.1.8.6.1.nupkg.sha512",
+    "C:\\Users\\coder\\.nuget\\packages\\itextsharp\\5.5.13.2\\itextsharp.5.5.13.2.nupkg.sha512"
+  ],
+  "logs": []
+}
